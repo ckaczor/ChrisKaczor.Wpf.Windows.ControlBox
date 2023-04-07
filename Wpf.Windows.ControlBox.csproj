@@ -12,6 +12,7 @@
 		<Description>Adds properties to a WPF Window to allow hiding the system menu, help button, minimize button, or maximize button.</Description>
 		<PackageId>ChrisKaczor.Wpf.Windows.ControlBox</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<AssemblyName>ChrisKaczor.Wpf.Windows.ControlBox</AssemblyName>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="JetBrains.Annotations" Version="2022.3.1" />
